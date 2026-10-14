@@ -145,7 +145,7 @@ También lo usé en `ListaTareas`, con dos estados: `tareas`, que guarda el arre
 
 ### d) Enlace del repositorio de GitHub
 
-https://github.com/TU_USUARIO/t3_act4_react
+https://github.com/CristianMartinezz1/t3_act4_react
 
 ### e) Enlace del proyecto desplegado en GitHub Pages
 

@@ -2,7 +2,7 @@
 
 Mini aplicación hecha con **React** y **Vite**. Es mi primer proyecto en React: practico los conceptos fundamentales del framework (componentes, props, estado, eventos, renderizado condicional y listas) y lo despliego en **GitHub Pages**.
 
-🔗 **Demo:** https://TU_USUARIO.github.io/t3_act4_react/
+🔗 **Demo:** https://cristianmartinezz1.github.io/t3_act4_react/
 
 ---
 
@@ -62,7 +62,7 @@ t3_act4_react/
 Requisito: tener instalado [Node.js](https://nodejs.org) (versión LTS).
 
 ```bash
-git clone https://github.com/TU_USUARIO/t3_act4_react.git
+git clone https://github.com/CristianMartinezz1/t3_act4_react.git
 cd t3_act4_react
 npm install
 npm run dev
@@ -149,7 +149,7 @@ https://github.com/CristianMartinezz1/t3_act4_react
 
 ### e) Enlace del proyecto desplegado en GitHub Pages
 
-https://TU_USUARIO.github.io/t3_act4_react/
+https://cristianmartinezz1.github.io/t3_act4_react/
 
 ---
 
